@@ -4,7 +4,7 @@
 
 ## Inventory Management
 
-* [Catalog Items](inventory-management/catalog-items.md)
+* [Item Catalog](inventory-management/catalog-items.md)
 * [Stock Adjustments / Wastage](inventory-management/stock-adjustments-wastage.md)
 
 ## Order Management

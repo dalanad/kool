@@ -2,16 +2,29 @@
 
 * [Getting Started](README.md)
 
-## Getting Started
+## Inventory Management
 
-* [Getting Super Powers](getting-started/getting-super-powers.md)
+* [Catalog Items](inventory-management/catalog-items.md)
+* [Stock Adjustments / Wastage](inventory-management/stock-adjustments-wastage.md)
+
+## Order Management
+
+* [Customers](order-management/customers.md)
+* [Sales Orders](order-management/sales-orders.md)
+* [Invoicing & Payments](order-management/invoicing-and-payments.md)
+
+## Supply Management
+
+* [Suppliers](supply-management/suppliers.md)
+* [Purchase Orders & GRNs](supply-management/purchase-orders-and-grns/README.md)
+  * [Good Receipt Notes](supply-management/purchase-orders-and-grns/good-receipt-notes.md)
+  * [Payments Made](supply-management/purchase-orders-and-grns/payments-made.md)
 
 ## Pricing
 
-* [Plans](pricing/plans.md)
-
 ## Resources
 
+* [Plans](resources/plans.md)
 * [FAQ](resources/faq.md)
 * [Chnagelog](resources/chnagelog.md)
 
